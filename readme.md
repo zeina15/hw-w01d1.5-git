@@ -15,6 +15,8 @@ cd ~/code/fewd/homework
 
 You can also open the folder in finder then drag the file path to your terminal by dragging the folder.
 
+![drag file path](https://media.giphy.com/media/4N5evpYM2BoTX88Eko/giphy.gif)
+
 ### 3. Clone your forked repository
 
 Copy the link from github.
@@ -25,6 +27,8 @@ In terminal, type `git clone ` then paste the link from github. (and press enter
 ### 4. Open your code in VS Code
 
 Drag the folder you just cloned to VS Code.
+
+![open in VS Code](https://media.giphy.com/media/5BWwXZZZMSCw808Jfj/giphy.gif)
 
 ### 5. Do your work. 
 
